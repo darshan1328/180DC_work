@@ -32,29 +32,6 @@ Follow these steps to set up the project locally:
    cd event-booking-platform
 Set up the Backend: Navigate to the backend directory and install the required dependencies:
 
-
-cd backend
-# If using Django
-pip install -r requirements.txt
-# If using Express
-npm install
-Configure Firebase: Set up your Firebase project and update the configuration in your backend as needed.
-
-Run the Backend:
-
-
-# For Django
-python manage.py runserver
-# For Express
-node index.js
-Run the Frontend: Navigate to the frontend directory and install the required dependencies:
-
-
-
-
-cd frontend
-npm install
-npm start
 API Endpoints
 Here are some of the key API endpoints available in the backend:
 
