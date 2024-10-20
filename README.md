@@ -59,9 +59,9 @@ API Endpoints
 Here are some of the key API endpoints available in the backend:
 
 User Authentication
-POST /api/auth/login: Login a user and return a token.
+POST /api/login: Login a user and return a token.
 
-POST /api/auth/register: Register a new user.
+POST /api/register: Register a new user.
 
 Events
 GET /api/events: Retrieve a list of all events.
