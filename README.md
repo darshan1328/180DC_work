@@ -20,7 +20,7 @@ Welcome to the Event Booking Platform! This web application allows users to brow
 
 ## Technologies Used
 - **Frontend**: React
-- **Backend**: Django or Express (specify which one you are using)
+- **Backend**: flask
 - **Database**: Firebase (specify your database structure if necessary)
 
 ## Getting Started
